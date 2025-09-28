@@ -102,6 +102,15 @@ AI开发工程师是人工智能时代最炙手可热的职业之一，负责将
 - [配置文件模版](./docs/tools/README.md#-配置文件模版) - 开发环境、ML、监控配置
 - [调试工具](./docs/tools/README.md#-调试工具) - 代码调试、数据调试、性能分析
 
+### ❓ [AI三千问](./docs/ai-qa/)
+以Q&A形式展示AI开发相关知识的问答模块，帮助开发者快速理解和掌握核心概念。
+
+**包含内容：**
+- [AI开发基础问题](./docs/ai-qa/ai-development-basics.md) - 10个AI开发核心问题解答
+- [机器学习实践问题](./docs/ai-qa/machine-learning-practice.md) - 机器学习开发中的常见问题
+- [深度学习技术问题](./docs/ai-qa/deep-learning-tech.md) - 深度学习模型开发问题
+- [AI工程化问题](./docs/ai-qa/ai-engineering-qa.md) - AI系统工程化相关问题
+
 ## 目录结构
 
 ```
@@ -136,6 +145,12 @@ docs/
 │   ├── open-source-projects.md # 开源项目推荐
 │   ├── datasets.md            # 数据集资源
 │   └── books.md               # 推荐书籍
+├── ai-qa/             # ❓ AI三千问
+│   ├── README.md              # 问答模块指南
+│   ├── ai-development-basics.md  # AI开发基础问题
+│   ├── machine-learning-practice.md  # 机器学习实践问题
+│   ├── deep-learning-tech.md  # 深度学习技术问题
+│   └── ai-engineering-qa.md   # AI工程化问题
 └── tools/             # 🛠️ 实用工具和模版
     ├── README.md              # 工具使用指南
     ├── templates/             # 项目模版
@@ -165,7 +180,10 @@ docs/
 ### 6. 工具模版
 使用 [使用工具和模版](./docs/tools/) 模块中的项目模版、代码片段、配置文件等，提高开发效率。
 
-### 7. 实践应用
+### 7. 问答学习
+通过 [AI三千问](./docs/ai-qa/) 模块快速查找和解决AI开发中的常见问题。
+
+### 8. 实践应用
 参考代码示例和实际应用场景，将理论知识转化为实践能力。
 
 ## 内容亮点
